@@ -1,9 +1,4 @@
 #!/bin/bash
 
 # Install a JupyterLab extension for demonstration purposes
-jupyter contrib nbextension install --user
-jupyter nbextension enable --py widgetsnbextension
-jupyter nbextension enable python-markdown/main
-pip install -U pip
-pip install -U jupyter labextension
-jupyter labextension install --debug @jupyterlab/geojson-extension jupyterlab-drawio
+#jupyter labextension install @jupyterlab/geojson-extension jupyterlab-drawio
