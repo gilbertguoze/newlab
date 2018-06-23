@@ -1,7 +1,5 @@
 traitlets>=4.3.1
 ipython
-lxml
 pandas
 vdom
-tushare
 jupyterlab_launcher
