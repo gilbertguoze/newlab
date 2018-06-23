@@ -1,4 +1,6 @@
 #!/bin/bash
 
 # Install a JupyterLab extension for demonstration purposes
+pip install -U pip
+pip install -U jupyter lab
 jupyter labextension install --debug @jupyterlab/geojson-extension jupyterlab-drawio
