@@ -3,3 +3,5 @@ ipython
 pandas
 vdom
 jupyterlab_launcher
+numpy
+tushare
